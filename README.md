@@ -1,6 +1,6 @@
 # Prpr
 
-TODO: Write a gem description
+ﾍﾟﾛﾍﾟﾛ(^ω^)
 
 ## Installation
 
@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+my_object = Object.new
+my_object.prpr # this equals to `my_object.pry`
+
+
+prpr # this equals to `binding.pry`
+
+```
 
 ## Contributing
 
